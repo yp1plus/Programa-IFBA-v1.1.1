@@ -9,4 +9,5 @@ Esta aplicação possui as seguintes funcionalidades:
   * Verifica se o aluno está passado ou quanto precisa nas unidades restantes em cada disciplina.
   * Mostra o TOP12 das disciplinas por unidade.
   * Mostra o TOP12 geral com as médias anuais de cada disciplina.
+  * Mostra uma retrospectiva com o percentual de queda na média de uma unidade para outra.
   * Informa a média geral do curso.
